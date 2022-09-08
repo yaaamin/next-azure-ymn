@@ -30,7 +30,7 @@ You can use the Create Next App tool to initialise your project using this examp
 * Init a new Git repo for your app and push the "main" branch to a remote e.g. on GitHub
 * Create a new feature branch where you will do the basic setup for your app e.g. `feature/create-next-app`
 * Follow the [Create Next App docs](https://nextjs.org/docs/api-reference/create-next-app) to create a Next.js app using this example repo as a template - you will need to use the `-e, --example` option
-  * For example: `npx create-next-app@latest -e https://github.com/CMeeg/next-azure`
+  * For example: `npx create-next-app@latest -e https:/github.com/yaaamin/next-azure-ymn`
 * Commit and push your changes
 
 > N.B. This example is currently [not using TypeScript](#can-i-use-typescript-with-this-example).
